@@ -162,4 +162,4 @@ DayOne.part_two(puzzle_input)
 
 ```
 
-<!-- livebook:{"offset":6231,"stamp":{"token":"XCP.iX2g6P-3yk-6W86lYHXrtU8Kh3cNEHWmXZAsC5NkhDFdV8AIRzbEZJonDQtx8jjUzYITV_G8wW74dzQDIGwaS6mVDOQPbF3drGRTcvavYJJa-txpyE4Lcysd","version":2}} -->
+<!-- livebook:{"offset":6231,"stamp":{"token":"XCP.iNEusW9WfD5bMxgz7zgCHPSunhJ0mZqpZ1R9skU6tYCQXoWTz9tWoWAplkBf4gfgUxY4cDh5wiKg_Qh53PHIqmwEUCjSwiTXae7cOoOFtouiRuMvlfNPsqSL","version":2}} -->
